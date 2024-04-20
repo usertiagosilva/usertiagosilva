@@ -1,5 +1,5 @@
 ### Olá! Eu sou Tiago Silva 🤙
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/tiago-silva-80a22026a)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-silva-80a22026a)
 
 - 🔭 Estou a procura de uma oportunidade na área tech
 - 📖 Estudando Análise e Desenvolvimento de sistemas 4° Semestre 

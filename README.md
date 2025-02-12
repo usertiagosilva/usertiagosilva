@@ -2,7 +2,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-tiago-silva)
 
 - 🔭 Estou a procura de uma oportunidade na área tech
-- 📖 Graduado em Análise e Desenvolvimento de sistemas 
+- 📖 Graduando em Análise e Desenvolvimento de sistemas 
 - 📘 Formação Front-end - HTML, CSS, JavaScript e React
 - 📘 Aluno Onebitcode Formação Python
   
